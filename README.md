@@ -1,4 +1,4 @@
-<--![logo]()-->
+![logo](https://github.com/BijayGurung2001/BijayGurung2001/blob/main/bj%20cover.gif)
 <h1 align="center">Hi 👋, I'm Bijay Gurung</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
